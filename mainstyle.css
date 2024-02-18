@@ -1,0 +1,56 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+    margin: auto;
+    padding: 100px;
+    background-color: beige;
+}
+
+.detail{
+    background-color: bisque;
+    margin: auto;
+    padding: 20px;
+    border-radius: 20px;
+    
+}
+.headerweb{
+    margin-top: -250px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+.boxlogo{
+    margin-top: -10px;
+    padding: 2px;
+}
+.Logo{
+    margin-top: -250px;
+}
+.prehead{
+    font-family: Raleway;
+    font-weight: 50px;
+}
+.boxtext{
+    width: 50%;
+}
+.aboutme{
+    font-family: Raleway;
+}
+.clickmenu {
+    font-size: 18px;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    color: lightseagreen;
+}
+.clickabout {
+    font-size: 18px;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    color: lightseagreen;
+}
+.clickcontact {
+    font-size: 18px;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    color: lightseagreen;
+}
